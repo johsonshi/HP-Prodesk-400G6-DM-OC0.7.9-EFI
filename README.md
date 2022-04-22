@@ -16,3 +16,7 @@ all of them are default config. most of HW could work, known issues are:
 
 tested under bigSur11.6 and montonry12.3.1, not perfect but it could work and let you do comming configruation in the MacOS.
 Hoping it could save your valueable time on this boring work.
+
+Please change the SN!!!!!
+Please change the SN!!!!!
+Please change the SN!!!!!

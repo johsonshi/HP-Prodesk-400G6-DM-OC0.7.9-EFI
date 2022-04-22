@@ -14,7 +14,7 @@ all of them are default config. most of HW could work, known issues are:
 2. HDMI port can't work well after system be wakeuped from hibernation. reboot system could call HDMI back.
 3. VGA adapter is not supported by MacOS. so I do not drvier it.
 
-tested under bigSur11.6 and montonry12.3.1, not perfect but it could work and let you do comming configruation in the MacOS.
+tested under bigSur11.6 and monterey12.3.1, not perfect but it could work and let you do comming configruation in the MacOS.
 Hoping it could save your valueable time on this boring work.
 
 Please change the SN!!!!!

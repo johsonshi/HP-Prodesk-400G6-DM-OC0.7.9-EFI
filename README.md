@@ -1,4 +1,4 @@
-# HP-Prodesk-400G6-DM-OC0.7.9-EFI
+# HP-Prodesk-400-G6-DM-OC0.7.9-EFI
 EFI for HP Prodesk 400G6 DM with VGA adapter
 desktop config:
 
